@@ -1,1 +1,5 @@
-first.md
+# one line for all posts, blanks and lines starting with '#' are ignored
+# each post is a md file in this repo
+# i also do some preprocessing so there is a special '@' syntax for post metadata
+
+first.json
